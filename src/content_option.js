@@ -48,7 +48,19 @@ const skills = [{
         value: 90,
     },
 ];
-
+const services = [{
+        title: "Web Development",
+        description: "I create responsive and dynamic websites using the latest technologies.",
+    },
+    {
+        title: "UI/UX Design",
+        description: "I design user-friendly interfaces that enhance user experience.",
+    },
+    {
+        title: "Full Stack Development",
+        description: "I build complete web applications from front-end to back-end.",
+    },
+];
 
 const contactConfig = {
     YOUR_EMAIL: "ghondgesanket8@gmail.com",
