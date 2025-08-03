@@ -11,7 +11,7 @@ const introdata = {
         second: "I code cool websites",
         third: "I develop web applications",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Aspiring IT professional aiming to excel in the field of Computer Technology by applying technical skills, learning new technologies, and contributing in a collaborative, innovative environment that supports continuous growth",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
@@ -136,8 +136,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "ghondgesanket8@gmail.com",
+    YOUR_FONE: "(+91) 8080100366",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
